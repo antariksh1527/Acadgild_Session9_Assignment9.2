@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">" Options Menu "</string>
+    <string name="txt_contant">" ANTARIKSH "</string>
+    <string name="optmenu">" Camera "</string>
+    <string name="optmenu1">" Video "</string>
+    <string name="optmenu2">" Email "</string>
+</resources>
